@@ -10,7 +10,7 @@ No se almacena ni se exporta ningún tipo de información personal del usuario n
 
 Los servicios solicitados mediante la aplicación responden a las prestaciones de ETECSA, la aplicación solo actúa como una herramienta para facilitar la ejecución de los códigos ussd y la gestión de conexión en el servicio de WIFI_ETECSA y Nauta Hogar. No nos hacemos responsables por demoras o mal funcionamiento de los servicios de la compañía. 
 
-El código de la aplicación se encuentra disponible bajo la licencia GPL3, cualquier tipo de copia, modificación y compilación del código deben hacerse respetando la licencia y bajo principios éticos, no se aceptarán contribuciones al código que traten de engañar a los usuarios o de exportar información de los mismos a servidores externos.
+El código de la aplicación se encuentra disponible bajo la licencia de código abierto LPTL, cualquier tipo de copia, modificación y compilación del código deben hacerse respetando la licencia y bajo principios éticos, no se aceptarán contribuciones al código que traten de engañar a los usuarios o de exportar información de los mismos a servidores externos.
 
 UNA VEZ MÁS. HACEMOS ÉNFASIS EN QUE LOS USUARIOS DEBEN DESCARGAR LA APLICACIÓN DESDE FUENTES OFICIALES:
 
